@@ -1,4 +1,7 @@
 # Snake
+
+this repo is a simple translation to english
+
 Uma simples implementação do jogo Snake em Python com Pygame
 
 ![Snake](http://i.imgur.com/1zX6KQW.png)
